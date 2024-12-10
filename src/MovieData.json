@@ -1,0 +1,92 @@
+[
+  {
+    "title": "3 Idiots",
+    "year": 2009,
+    "genre": "Comedy, Drama",
+    "director": "Rajkumar Hirani",
+    "cast": ["Aamir Khan", "R. Madhavan", "Sharman Joshi", "Kareena Kapoor"],
+    "imdbRating": 8.4,
+    "image": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p7951929_p_v8_aa.jpg" 
+  },
+  {
+    "title": "Sholay",
+    "year": 1975,
+    "genre": "Action, Adventure, Drama",
+    "director": "Ramesh Sippy",
+    "cast": ["Amitabh Bachchan", "Dharmendra", "Hema Malini", "Amjad Khan"],
+    "imdbRating": 8.1,
+    "image": "https://m.media-amazon.com/images/S/pv-target-images/7b2a50d45848fe16556a3598209dca93196c8e3db927f2426426caf9ba79b3af.jpg"
+  },
+  {
+    "title": "Dilwale Dulhania Le Jayenge",
+    "year": 1995,
+    "genre": "Romance, Drama",
+    "director": "Aditya Chopra",
+    "cast": ["Shah Rukh Khan", "Kajol", "Amrish Puri"],
+    "imdbRating": 8.0,
+    "image": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p25126_p_v8_ac.jpg"
+  },
+  {
+    "title": "Gully Boy",
+    "year": 2019,
+    "genre": "Drama, Music",
+    "director": "Zoya Akhtar",
+    "cast": ["Ranveer Singh", "Alia Bhatt", "Siddhant Chaturvedi"],
+    "imdbRating": 8.0,
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXMTEyIl9h8AArp8w2MeZgvE5rUb29r__fuy01fXDs_KfTpDGbsTz05TpVd2PyyfdbQnvPM1FC8duupkk7k-74PwXhQyxO-G2VkmmtsGdEK5OnYiRISFmG-FwsdxNLc8PuKQku/s1600/blog+-+2.jpg"
+  },
+  {
+    "title": "Dangal",
+    "year": 2016,
+    "genre": "Biography, Drama, Sport",
+    "director": "Nitesh Tiwari",
+    "cast": ["Aamir Khan", "Sakshi Tanwar", "Fatima Sana Shaikh"],
+    "imdbRating": 8.4,
+    "image": "https://static.toiimg.com/photo/61270701.cms"
+  },
+  {
+    "title": "Kabir Singh",
+    "year": 2019,
+    "genre": "Romance, Drama",
+    "director": "Sandeep Reddy Vanga",
+    "cast": ["Shahid Kapoor", "Kiara Advani"],
+    "imdbRating": 7.0,
+    "image": "https://m.media-amazon.com/images/M/MV5BNjU5ZTljMDEtNzg5Ny00OTliLWI3NmYtOTE1ZDg3NTNkMDM0XkEyXkFqcGc@._V1_QL75_UY281_CR7,0,190,281_.jpg"
+  },
+  {
+    "title": "Taare Zameen Par",
+    "year": 2007,
+    "genre": "Drama, Family",
+    "director": "Aamir Khan",
+    "cast": ["Darsheel Safary", "Aamir Khan", "Tisca Chopra"],
+    "imdbRating": 8.3,
+    "image": "https://i0.wp.com/farm3.static.flickr.com/2293/2199716219_812a40f10e.jpg?resize=354%2C500"
+  },
+  {
+    "title": "Zindagi Na Milegi Dobara",
+    "year": 2011,
+    "genre": "Adventure, Comedy, Drama",
+    "director": "Zoya Akhtar",
+    "cast": ["Hrithik Roshan", "Farhan Akhtar", "Abhay Deol"],
+    "imdbRating": 8.2,
+    "image": "https://m.media-amazon.com/images/I/81Y-oQLYDTL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "title": "Lagaan",
+    "year": 2001,
+    "genre": "Drama, Sport",
+    "director": "Ashutosh Gowariker",
+    "cast": ["Aamir Khan", "Gracy Singh", "Rachel Shelley"],
+    "imdbRating": 8.1,
+    "image": "https://upload.wikimedia.org/wikipedia/hi/1/1a/Lagaan.jpeg"
+  },
+  {
+    "title": "Andhadhun",
+    "year": 2018,
+    "genre": "Crime, Thriller",
+    "director": "Sriram Raghavan",
+    "cast": ["Ayushmann Khurrana", "Tabu", "Radhika Apte"],
+    "imdbRating": 8.2,
+    "image": "https://entertainedforlife.wordpress.com/wp-content/uploads/2018/10/andhadhun_2.jpg?w=293&h=422"
+  }
+]
